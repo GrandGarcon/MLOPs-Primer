@@ -1,6 +1,27 @@
-# MLOPs Primer
+# ML-OPS for web3 based ML ecosystem 
 
-**Machine learning operations (MLOps)** is becoming an exciting space as we figure out the best practices and technologies to deploy machine learning models in the real world. MLOps enable ML teams to build responsible and scalable machine learning systems and infrastructure. This facilitates tasks that range from risk assessment to building and testing to monitoring. While still in its infancy, MLOps has attracted machine learning engineers and software engineers in general. With every new paradigm comes new challenges and opportunities to learn. In this primer, we highlight a few available resources to upskill and inform yourself on the latest in the world of MLOps. We have listed a few educational resources as a start but plan to build this out as a more comprehensive guide for the future.
+
+credits to the [orignal author](https://github.com/dair-ai/MLOPs-Primer) for the in depth overview of the resources for the tutorials .
+
+**Machine learning operations (MLOps)** has become an impressive feat in implementing immense scalablity in productionising bechmark state of the art  models  in speech, CV and other multimedia which was computationally infeasible in the . the art of "ML model versioning and development lifecycle" is must to learn for building the most performant SaaS in the space (recommendation systems).
+
+
+this list is constituent of one of the grant that i have submitted in the [algovera community](https://forum.algovera.ai/t/building-web3-social-media-based-recommendation-system-curriculum-toolbox/87) for building the toolbox of ML frameworks and tech stack for web3. 
+
+
+
+- This facilitates tasks that range from  to building and testing to monitoring. 
+- risk assessment
+- benchmarking of model
+- data pipeling management and feature store.  
+- model versioning and automated deployment and testing pipeline.
+-     machine learning engineers and software engineers in general. With every new paradigm comes new challenges and opportunities to learn. In this primer, we highlight a few available resources to upskill and inform yourself on the latest in the world of MLOps. We have listed a few educational resources as a start but plan to build this out as a more comprehensive guide for the future.
+
+
+
+now this combined with the composablity of the data onchain (web3) are the best combination in scaling the use cases for the onchain data information in order to predict trends  in the crypto markets , or detect the trends about the onchain interaction of the user with the applications actoss the different  
+
+
 
 ## Books
 
