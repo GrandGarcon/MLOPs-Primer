@@ -15,12 +15,24 @@ this list is constituent of one of the grant that i have submitted in the [algov
 - benchmarking of model
 - data pipeling management and feature store.  
 - model versioning and automated deployment and testing pipeline.
--     machine learning engineers and software engineers in general. With every new paradigm comes new challenges and opportunities to learn. In this primer, we highlight a few available resources to upskill and inform yourself on the latest in the world of MLOps. We have listed a few educational resources as a start but plan to build this out as a more comprehensive guide for the future.
 
 
 
-now this combined with the composablity of the data onchain (web3) are the best combination in scaling the use cases for the onchain data information in order to predict trends  in the crypto markets , or detect the trends about the onchain interaction of the user with the applications actoss the different  
+now this combined with the  transparent and immutable d data onchain (web3) are the best combination in  use cases for the  data analysis  in order to predict trends  in the crypto markets , or detect the trends about the web3 ecosystem regarding DAO's and their collaboration , prediction oracles, securing the smart contracts by predicting in advance about the attacks, building the agile development plan to scale the ML but work alos on the aspects of the decentralisation for indexing and fetching the data, along with the ethical concerns concerning the training of the models while having  the explainablity.
 
+
+
+
+we highlight a few available resources to upskill and inform yourself on the latest in the world of MLOps whole stack in the field of web3 . We will list from bottom (data indexing and creation of the pipelines,  cleaning and correlating the data across the different traits of the information ) to the top (signed data by the user like voting information, fetching the asset information, participation. on the forums  and  social media computation protocol like lens ).
+
+
+## Data fetching pipeline (WIP:- building the tutorials for each of the points) : 
+- this can be  from multiple possiblities :
+  - smart contracts : indexation using subgraphs using theGraph
+  - getting indexed information directly from the blockchain.
+  -  storage on the peer storage and distributed storage protocol like IPFS , FVM .
+ 
+### check out the [data-pipelines (WIP)](./data-pipelines) for  the demonstration.
 
 
 ## Books
